@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+ClientTest.sdf
+ClientTest.VC.db
+ClientTest/Debug/
+ClientTest/x64/
+.vs/
+ClientTest/ClientTest.aps
+
+
